@@ -51,7 +51,7 @@ Once the billing website is up and running, you can perform the following action
   - Calculate totals
   - Save and send invoices
 - Track payments:
-  - Mark invoices as paid
+  - Mark invoices as paid/partially paid/unpaid
   - Record payment details
   - View payment history
   - Send payment reminders
@@ -101,13 +101,21 @@ Additional libraries and dependencies:
 
 ![Customers](./images/customers.png)
 
+### Customer Details
+
+![Customer Details](./images/customer-details.png)
+
+### Add Customer
+
+![Add Customer](./images/add-customer.png)
+
 ### Invoices
 
 ![Invoices](./images/invoices.png)
 
-### Payments
+### Record Payment
 
-![Payments](./images/payments.png)
+![Record Payment](./images/record-payment.png)
 
 ### Invoice Generation
 
@@ -116,3 +124,7 @@ Additional libraries and dependencies:
 ### Invoice Preview
 
 ![Invoice Preview](./images/invoice-preview.png)
+
+### Payment History
+
+![Payment History](./images/payment-history.png)
