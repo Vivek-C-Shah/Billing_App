@@ -84,8 +84,10 @@ Additional libraries and dependencies:
 
 ## Authors
 
-- [@Vivek](https://www.linkedin.com/in/the-cipher-vivek) [Email at](mailto:vivekchiragshah2004@gmailcom?subject=[GitHub]%20Billing%20Website%20Query)
-- [@Vraj](https://www.linkedin.com/in/vraj1103) [Email at](mailto:vraj.dev1103@gmail.com?subject=[GitHub]%20Billing%20Website%20Query)
+- [@Vivek](https://www.linkedin.com/in/the-cipher-vivek)
+- [Email Vivek at](mailto:vivekchiragshah2004@gmailcom?subject=[GitHub]%20Billing%20Website%20Query)
+- [@Vraj](https://www.linkedin.com/in/vraj1103)
+- [Email Vraj at](mailto:vraj.dev1103@gmail.com?subject=[GitHub]%20Billing%20Website%20Query)
 
 ## Sneak-Peeks
 
