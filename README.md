@@ -27,7 +27,7 @@ The billing website offers the following functionalities:
 
 ## Installation
 
-To get the billing website for your own use, contact us [Vivek](https://www.linkedin.com/in/the-cipher-vivek) or [Vraj](https://www.linkedin.com/in/vraj1103).
+To get the billing website for your own use, contact us at [Venv-Dev](mailto:venv.developers@gmail.com?subject=[GitHub]%20Billing%20Website%20Query).
 
 ## Usage
 
